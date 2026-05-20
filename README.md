@@ -1,6 +1,6 @@
 # 🛠️ Welcome to my "Everything is Fine" Territory
 
-![I AM FINE.]([https://tenor.com/th/view/im-fine-its-fine-fire-dog-coffee-gif-16373884](https://ibb.co/xSF1x2Hg))
+![I AM FINE.](https://ibb.co/xSF1x2Hg)
 ---
 
 ### 📊 My "Productive" Stats
