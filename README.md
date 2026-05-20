@@ -1,6 +1,6 @@
 # 🛠️ Welcome to my "Everything is Fine" Territory
 
-![I AM FINE.](https://ibb.co/xSF1x2Hg)
+![image](https://ibb.co/xSF1x2Hg)
 ---
 
 ### 📊 My "Productive" Stats
