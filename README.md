@@ -1,6 +1,6 @@
 # 🛠️ Welcome to my "Everything is Fine" Territory
 
-![image](https://ibb.co/xSF1x2Hg)
+![image](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/6438793/this-is-fine.jpg?quality=90&strip=all&crop=8.3333333333333%2C0%2C83.333333333333%2C100&w=1080)
 ---
 
 ### 📊 My "Productive" Stats
