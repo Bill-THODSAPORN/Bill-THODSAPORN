@@ -5,6 +5,5 @@
 
 ### 📊 My "Productive" Stats
 
-* 💻 **Programing language:** สวดมนต์ (90%), Google Translate (5%), Code จริง ๆ (5%)
-* 🐛 **Bug ที่สร้าง:** มีจำนวนมากกว่าดาวบนท้องฟ้า
-* ☕ **My life:** เงินเดือน และความหวังอันริบหรี่
+* 💻 **Programing language:** AI (45%), สวดมนต์ (40%), Code จริง ๆ (5%)
+* 🕵️‍♂️ **Q&A:** Dev: พี่ test ยังไง, Me: ผมก็ไม่รู้เหมือนกัน
